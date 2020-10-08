@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2955d54.chunk.css",
+    "main.js": "/static/js/main.226e8ec1.chunk.js",
+    "main.js.map": "/static/js/main.226e8ec1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8fd40002.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8fd40002.js.map",
+    "static/css/2.2921f41c.chunk.css": "/static/css/2.2921f41c.chunk.css",
+    "static/js/2.af31afcf.chunk.js": "/static/js/2.af31afcf.chunk.js",
+    "static/js/2.af31afcf.chunk.js.map": "/static/js/2.af31afcf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eb4bdba0c8e4f76d42e795a82af999b2.js": "/precache-manifest.eb4bdba0c8e4f76d42e795a82af999b2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2921f41c.chunk.css.map": "/static/css/2.2921f41c.chunk.css.map",
+    "static/css/main.e2955d54.chunk.css.map": "/static/css/main.e2955d54.chunk.css.map",
+    "static/js/2.af31afcf.chunk.js.LICENSE.txt": "/static/js/2.af31afcf.chunk.js.LICENSE.txt",
+    "static/media/airepanama.png": "/static/media/airepanama.0ba5aa25.png",
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.f3a7d3b5.woff",
+    "static/media/reactlogo.png": "/static/media/reactlogo.6228715c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd40002.js",
+    "static/css/2.2921f41c.chunk.css",
+    "static/js/2.af31afcf.chunk.js",
+    "static/css/main.e2955d54.chunk.css",
+    "static/js/main.226e8ec1.chunk.js"
+  ]
+}

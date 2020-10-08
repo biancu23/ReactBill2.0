@@ -1,0 +1,36 @@
+{
+  "name": "mdb-react-admin-template",
+  "version": "1.0.0",
+  "description": "MDB - React Admin Dashboard Free",
+  "author": "MDBootstrap <support@mdbootstrap.com>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^7.22.0",
+    "firebase-admin": "^9.2.0",
+    "google-map-react": "^2.1.6",
+    "mdbreact": "^4.27.0",
+    "react": "^16.13.1",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-toolkit": "^2.1.3",
+    "react-dom": "^16.13.1",
+    "react-easy-print": "^0.6.0",
+    "react-firebase-file-uploader": "^2.4.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "react-select": "^3.1.0",
+    "react-select-search": "^2.1.1",
+    "sweetalert2": "^10.3.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
